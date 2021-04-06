@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html {
+  font-size: 14px;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
+
+.btn {
+  -webkit-box-shadow: none !important;
+          box-shadow: none !important;
+}
+
+.btn-primary.active {
+  color: #070707 !important;
+  background-color: #7EB50C !important;
+  border-color: #7EB50C !important;
+}
+
+.btn-primary {
+  color: #070707 !important;
+  background-color: #C5E09B !important;
+  border-color: #C5E09B !important;
+}
+
+.text-primary {
+  color: #6d75c7 !important;
+}
+
+h1 {
+  font-size: 1.8rem;
+}
+
+h2 {
+  font-size: 1.3rem;
+}
+
+h3 {
+  font-size: 1rem;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 600;
+}
+
+.fw-regular {
+  font-weight: 400;
+}
+
+.program__card {
+  height: 100%;
+}
+
+.program__card-img {
+  height: 160px;
+}
+/*# sourceMappingURL=main.css.map */
